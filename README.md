@@ -1,2 +1,2 @@
-# Medical Resume Builder (ASP.NET)
-ASP.NET application that creates a medical resume for those in medical domain.
+# Professional Resume Builder (ASP.NET)
+ASP.NET application that helps mainly researchers and people with different professions to easily build their own professional resume.
